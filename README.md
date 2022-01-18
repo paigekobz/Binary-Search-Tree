@@ -1,2 +1,4 @@
-# Binary-Search-Tree
-Functions to insert and remove data from binary search tree and avl tree
+# SYDE223: Assignment 3
+Follow the instruction in PDF file to finish and submit your
+assignment.
+Commit your changes and submit on GitLab.
